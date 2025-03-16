@@ -4,7 +4,8 @@
 
 ## 🛠️ 기술 스택
 
-- Laravel 10.x
+- Laravel 12.x
+- PHP 8.4
 - Breeze (Blade + React)
 - Docker (Sail)
 - MySQL
